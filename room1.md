@@ -1,8 +1,8 @@
-<h1>Rooms</h1>
-<a>Room 1</a>
+# Rooms
+Room 1
 
-<a href="room2.html">Room 2</a>
+[Room 2](room2.md)
 
-<a href="room3.html">Room 3</a>
+[Room 3](room3.md)
 
 <iframe src="https://meet.jit.si/CoffeeHourRoom1" allow="camera;microphone" style="width:100%; height:80%"></iframe>
