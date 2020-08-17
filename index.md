@@ -5,5 +5,7 @@ You can join one of the virtual spaces below. If a room is empty or you don't li
 # Rooms
 
 [Room 1](https://meet.jit.si/CoffeeHour1)
+
 [Room 2](https://meet.jit.si/CoffeeHour2)
+
 [Room 3](https://meet.jit.si/CoffeeHour3)
